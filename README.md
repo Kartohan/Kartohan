@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oleksii (a.k.a Kartohan) 👋</h1>
+<h1 align="center">Hi, I'm Oleksii👋</h1>
 <h3 align="center">A Full-Stack JavaScript Developer and graduate of The Odin Project</h3>
 
 <p align="center">
