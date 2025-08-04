@@ -7,7 +7,7 @@
 
 I am a developer passionate about building full-cycle web applications: from interactive frontends to robust backends. I have completed one of the most challenging and comprehensive courses, **The Odin Project**, where I gained hands-on experience in building real-world projects from scratch.
 
-- 🔭 Right now i am exploring my career opportunities
+- 🔭 Right now i am exploring career opportunities
 - 🌱 I'm deepening my knowledge in **TypeScript** and exploring **Next.js**, also interested in **Java**.
 - 💬 Glad to talk about your new project and contribute to!
 - 📫 How to reach me: **[kartohan@gmail.com](mailto:kartohan@gmail.com)**
