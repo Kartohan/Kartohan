@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oleksii👋</h1>
+<h1 align="center">Hi, I'm Oleksii 👋</h1>
 <h3 align="center">A Full-Stack JavaScript Developer and graduate of The Odin Project</h3>
 
 <p align="center">
@@ -7,9 +7,9 @@
 
 I am a developer passionate about building full-cycle web applications: from interactive frontends to robust backends. I have completed one of the most challenging and comprehensive courses, **The Odin Project**, where I gained hands-on experience in building real-world projects from scratch.
 
-- 🔭 Right now i am exploring career opportunities
-- 🌱 I'm deepening my knowledge in **TypeScript** and exploring **Next.js**, also interested in **Java**.
-- 💬 Glad to talk about your new project and contribute to!
+- 🔭 Open to new career opportunities.
+- 🌱 I`m deeping my knowledge in Backend with **Java**.
+- 💬 I'm open to collaborating on interesting projects. Feel free to reach out!
 - 📫 How to reach me: **[kartohan@gmail.com](mailto:kartohan@gmail.com)**
 
 ---
@@ -43,6 +43,7 @@ Here are a few projects I developed during my studies at The Odin Project. They 
 | **[Inventory Application](https://github.com/Kartohan/inventory-application-TOP)** | A CRUD application for inventory management. Demonstrates working with databases and server-side logic. **(Node.js, Express, MongoDB)** |
 | **[Members Only](https://github.com/Kartohan/members-only-TOP-project)** | A backend project with an authentication system and user access control. **(Node.js, Express, Passport.js)** |
 | **[Memory Card Game](https://github.com/Kartohan/memory-card-TOP-project)** | An interactive React game that demonstrates working with state and component lifecycle. **(React, JavaScript)** |
+| **[Weather App](https://kartohan.github.io/weather-app-TOP-Project/)** | Simple weather application that you can search for brief weather forecast. **(HTML, JavaScript)** |
 
 ---
 
