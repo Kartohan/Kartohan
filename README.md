@@ -47,19 +47,6 @@ Here are a few projects I developed during my studies at The Odin Project. They 
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kartohan&show_icons=true&theme=tokyonight&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartohan&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
